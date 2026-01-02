@@ -74,8 +74,7 @@ export function Contact() {
                     href="mailto:sattvik.sharma@example.com"
                     className="text-foreground hover:text-primary transition-colors"
                   >
-                    sattvik.sharma@example.com
-                  </a>
+                    dwivedisattvik2121@gmail.com                  </a>
                 </div>
               </div>
 
