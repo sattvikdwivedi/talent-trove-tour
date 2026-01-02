@@ -91,7 +91,7 @@ export function Contact() {
 
             <div className="flex gap-4">
               <a
-                href="https://linkedin.com/in/sattvik-sharma-80b56b208"
+                href="https://www.linkedin.com/in/sattvik-dwivedi-277544207/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="p-3 rounded-lg bg-card border border-border hover:border-primary/30 text-muted-foreground hover:text-primary transition-colors"
@@ -99,7 +99,7 @@ export function Contact() {
                 <Linkedin className="h-5 w-5" />
               </a>
               <a
-                href="https://github.com/sattvik-sharma"
+                href="https://github.com/sattvikdwivedi"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="p-3 rounded-lg bg-card border border-border hover:border-primary/30 text-muted-foreground hover:text-primary transition-colors"

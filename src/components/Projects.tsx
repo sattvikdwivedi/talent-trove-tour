@@ -10,7 +10,7 @@ const projects = [
       "A comprehensive healthcare management system enabling patients to book and manage doctor appointments. Features include real-time scheduling, appointment tracking, and secure patient data management with role-based access control.",
     technologies: ["React.js", "Node.js", "MongoDB", "Express.js", "REST APIs"],
     image: null,
-    github: "https://github.com/sattvik-sharma",
+    github: "https://github.com/sattvikdwivedi",
     live: null,
   },
   {

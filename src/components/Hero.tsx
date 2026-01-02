@@ -37,7 +37,7 @@ export function Hero() {
 
         <div className="flex items-center justify-center gap-6 mb-16 animate-fade-in-up" style={{ animationDelay: "0.4s" }}>
           <a
-            href="https://linkedin.com/in/sattvik-sharma-80b56b208"
+            href="https://www.linkedin.com/in/sattvik-dwivedi-277544207/"
             target="_blank"
             rel="noopener noreferrer"
             className="text-muted-foreground hover:text-primary transition-colors"
@@ -45,7 +45,7 @@ export function Hero() {
             <Linkedin className="h-6 w-6" />
           </a>
           <a
-            href="https://github.com/sattvik-sharma"
+            href="https://github.com/sattvikdwivedi"
             target="_blank"
             rel="noopener noreferrer"
             className="text-muted-foreground hover:text-primary transition-colors"
@@ -53,7 +53,7 @@ export function Hero() {
             <Github className="h-6 w-6" />
           </a>
           <a
-            href="https://leetcode.com/sattvik_sharma"
+            href="https://leetcode.com/u/sattvikdwivedi/"
             target="_blank"
             rel="noopener noreferrer"
             className="text-muted-foreground hover:text-primary transition-colors"
